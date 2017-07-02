@@ -1,7 +1,7 @@
 # Leprechaun
 Repository of alt coin resources and potentially the start of a product
 
-##Resources
+## Resources
 A collection of preferred resources.
 
 ### Preferred Exchanges
