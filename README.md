@@ -15,6 +15,11 @@ A collection of preferred resources.
 
  - [World Coin Index](https://www.worldcoinindex.com) - Charting, trends, entry point to twitter and reddit news for each coin
 
+ - [https://coinmarketcap.com](https://coinmarketcap.com) - Similar to world coin index.
+
+ - [Crypto Compare](https://www.cryptocompare.com/) - Summaries of coins.
+
+
  - [High Altitude Investing](https://www.youtube.com/channel/UCD9j5qyDqQvb9qnLss3vxww) - Fledgling altcoin investment strategist.
 
  - [Chris Dunn](https://www.youtube.com/user/chrisdunntv) - Youtube investment guy.
